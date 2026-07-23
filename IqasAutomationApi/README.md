@@ -1,6 +1,3 @@
----
-
-```markdown
 # Inventory Quality & Audit System (IQAS)
 
 An enterprise-grade backend service designed to automate defect tracking, aggregate operational compliance metrics, and generate AI-driven root-cause analyses for warehouse and supply chain environments.
